@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Batuhan. I am a freshman in Bilkent University. My department is CS.
 
 <!--
 **batuyorulmaz/batuyorulmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
